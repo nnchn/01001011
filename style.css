@@ -1,0 +1,43 @@
+body {
+    background-image:url('css/pink.gif');
+    font-family: "questrial";
+    color: #eb4c42;
+
+    cursor:url('css/melo.png'), default;
+    height: 100vh;
+    }
+
+div {
+padding: 0px;
+}
+
+  .top{
+    position: absolute;
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .game{
+    position: absolute;
+    margin-top: 300px;
+    width: 100%;
+    text-align: center;
+  }
+    
+  .bottom {
+  position: fixed;
+  bottom: 0;
+  padding: 30px 10px;
+  text-align: right;
+   
+  }
+
+
+  footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      padding: 20px 0px;
+      background-image:url('css/pony.gif'); background-size: contain;
+    }
